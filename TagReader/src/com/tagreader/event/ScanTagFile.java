@@ -17,5 +17,9 @@ public class ScanTagFile {
         db.createTable();
         System.out.println("Table created !!");    
     }
+    public void getFinalResult() {
+    
+    
+    }
       
 }
